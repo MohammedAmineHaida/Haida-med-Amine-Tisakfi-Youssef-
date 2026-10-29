@@ -75,3 +75,7 @@ sentiment-app/
 | Membre B | Youssef Tisakfi | [@YoussefTisakfi](https://github.com/YoussefTisakfi) | À renseigner après contribution personnelle. |
 
 Dépôt du binôme : [Haida-med-Amine-Tisakfi-Youssef-](https://github.com/MohammedAmineHaida/Haida-med-Amine-Tisakfi-Youssef-).
+
+
+
+amine
